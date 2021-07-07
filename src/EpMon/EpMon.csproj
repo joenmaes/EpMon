@@ -44,7 +44,7 @@
     <PackageReference Include="IdentityModel" Version="5.1.0" />
     <PackageReference Include="Microsoft.ApplicationInsights" Version="2.17.0" />
     <PackageReference Include="Microsoft.Extensions.Http" Version="5.0.0" />
-    <PackageReference Include="prometheus-net" Version="4.1.1" />
+    <PackageReference Include="prometheus-net" Version="4.2.0" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\EpMon.Data\EpMon.Data.csproj" />

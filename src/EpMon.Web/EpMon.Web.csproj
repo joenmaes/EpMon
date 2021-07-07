@@ -27,7 +27,7 @@
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.13" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
     <PackageReference Include="Polly" Version="7.2.2" />
-    <PackageReference Include="prometheus-net" Version="4.1.1" />
+    <PackageReference Include="prometheus-net" Version="4.2.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.4" />
     <PackageReference Include="System.Net.NameResolution" Version="4.3.0" />
     <PackageReference Include="X.PagedList.Mvc.Core" Version="8.1.0" />
